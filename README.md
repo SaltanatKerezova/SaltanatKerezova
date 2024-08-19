@@ -8,7 +8,7 @@ Salesforce administration and optimization.
 Advanced data analytics techniques,
 Python programming for data processing,
 SQL for database management,
-Tableau for creating dynamic data visualizations.
+Tableau for creating dynamic data visualizations: https://public.tableau.com/app/profile/saltanat.kerezova
 
 - 📫 Feel free to reach out:
 Email: saltanat.kerezova@gmail.com,
